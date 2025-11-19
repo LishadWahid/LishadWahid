@@ -77,26 +77,3 @@ Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full
 
 ---
 
-
-# 📌 Pinned Repositories  
-
-### 🔹 **1. Tourism Booking Web App (MERN)**  
-A full-stack MERN tourism booking website with JWT auth, dashboard & dynamic UI.  
-**Live Link:** https://example.com  
-**Tech Stack:** React, Tailwind, Node, Express, MongoDB  
-
----
-
-### 🔹 **2. MERN Authentication System**  
-JWT-based authentication (Login/Register) system with secure API.  
-**Live Link:** https://example.com  
-**Tech Stack:** React, Node.js, Express.js, MongoDB  
-
----
-
-### 🔹 **3. React Portfolio Website**  
-A responsive and modern portfolio website to showcase projects & skills.  
-**Live Link:** https://example.com  
-**Tech Stack:** React, Tailwind CSS  
-
----
